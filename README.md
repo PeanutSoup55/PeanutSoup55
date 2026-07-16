@@ -1,16 +1,29 @@
-## Hi there 👋
+# Eric
 
-<!--
-**PeanutSoup55/PeanutSoup55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *"it compiles": It doesnt compile and im coping hard*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current project thats preventing me from touching grass:
+
+**[Free My Query](https://freemyquery.com)** a JavaFX MySQL tool that lets you see your database instead of squinting at `SELECT * FROM regret`. ER diagrams, ez CRUD, SSH remote sync, and a login code generator, because apparently I hate free time.
+
+
+
+
+
+
+## tech I have Stockholm syndrome with
+
+Java / JavaFX, TypeScript, React, Supabase, MySQL
+
+
+
+
+
+
+### find me before I disappear into the binary void
+
+[freemyquery.com](https://freemyquery.com)
+
+⭐ if you star this repo nothing happens but itll stroke my malnourished ego.
