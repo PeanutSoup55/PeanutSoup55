@@ -1,4 +1,6 @@
-# Eric
+
+# Eric Blanchette
+
 
 ### *"it compiles": It doesnt compile and im coping hard*
 
@@ -27,3 +29,4 @@ Java / JavaFX, TypeScript, React, Supabase, MySQL
 [freemyquery.com](https://freemyquery.com)
 
 ⭐ if you star this repo nothing happens but itll stroke my malnourished ego.
+<img width="600" height="300" alt="do-not-touch-it-programmer" src="https://github.com/user-attachments/assets/5feaf8ac-b169-4c7a-af16-c2bb3cb8f544" />
